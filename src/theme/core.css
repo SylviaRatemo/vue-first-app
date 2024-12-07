@@ -1,0 +1,9 @@
+/* ion-toolbar {
+    --background: var(--ion-background-color);
+} */
+
+.no-link {
+    text-decoration: none; /* Remove underline */
+    color: inherit;        /* Use the same text color as the surrounding text */
+    cursor: pointer;       /* Ensure the cursor is a pointer to indicate interactivity */
+  }
